@@ -1,3 +1,4 @@
+import streamlit as st
 import re
 
 def check_password_strength(password):
